@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.c85edc6f.js",
-    "static/media/btc.png": "/static/media/btc.04101b0b163c035fa57e.png",
-    "index.html": "/index.html",
-    "main.c85edc6f.js.map": "/static/js/main.c85edc6f.js.map"
+    "main.js": "/crypto/static/js/main.e8cb1dbc.js",
+    "static/media/btc.png": "/crypto/static/media/btc.04101b0b163c035fa57e.png",
+    "static/media/IMG_0983.jpg": "/crypto/static/media/IMG_0983.6358efc025980839f1f3.jpg",
+    "index.html": "/crypto/index.html",
+    "main.e8cb1dbc.js.map": "/crypto/static/js/main.e8cb1dbc.js.map"
   },
   "entrypoints": [
-    "static/js/main.c85edc6f.js"
+    "static/js/main.e8cb1dbc.js"
   ]
 }
